@@ -1,6 +1,6 @@
 # loan_default_prediction
 
-I conducted loan default prediction by applying machine learning algorithms (Logistic regression, Ridge, LASSO, Gradient Boosting, SVM, Random Forest) on individual level loan data from Lending Club.  The prediction model I developed will help Lending Club to detect whether the new borrowers come to it will be default (do not pay back the loan in time) so that Lending Club can avoid the risk to losing money.
+I conducted loan default prediction by applying machine learning algorithms (Logistic regression, Ridge, LASSO, Gradient Boosting, SVM, Random Forest) on individual level loan data from Lending Club.  The prediction model I developed will help Lending Club to detect whether the new borrowers will be default (do not pay back the loan in time) so that Lending Club can avoid the risk to losing money.
 
 I cleaned the data, constructed outcome metric and features, and selected features.
 
