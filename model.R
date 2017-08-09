@@ -1,3 +1,7 @@
+############################################################################
+##Logistic regression, Ridge, LASSO, Gradient Boosting, SVM, Random Forest
+##Unbalanced Classes of Outcome Metrics, Undersampling the majority class, Oversampling the minority class 
+
 rm(list = ls())
 setwd("C:/Users/xyin/Desktop/Manor Resource/test-loan-data")
 getwd()
